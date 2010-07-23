@@ -1,0 +1,55 @@
+body {
+	margin:0;
+	padding:0;
+}
+.tabs{
+	margin:0;
+	padding:0;
+	display:inline-block;
+}
+.tab-content{
+	background-color:white !important;
+	border:1px solid black;
+	height:500px;
+	padding:0;
+	margin:0;
+}
+#chat-box{
+	width:79.5%;
+	float:left;
+}
+#users-rooms-box{
+	width:20%;
+	float:right;
+}
+.new-input{
+	width:150px;
+}
+.txtMessage{
+	width:685px;
+}
+.chat-room-link{
+	cursor:pointer;
+	margin:0;
+	padding:0;
+}
+.room-user-box{
+	border-left:1px Solid Black;
+	height:100%;
+	float:right;
+	width:15%;
+}
+.room-chat-box{
+	float:left;
+	height:100%;
+	width:80%;
+	overflow-y:auto;
+}
+.ui-icon-close
+{
+	cursor:pointer;
+	float:right;
+}
+li{
+	white-space:nowrap;
+}
