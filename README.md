@@ -1,6 +1,6 @@
 #CFWebsocket Chat#
 
-Chat based on [CFWebsocket](http://github.com/jgautier/CFWebsocketChat).  
+Chat based on [CFWebsocket](http://github.com/jgautier/CFWebsocket).  
 
 Usage:
 
